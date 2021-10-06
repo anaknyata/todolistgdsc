@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">todolist</string>
+    <string name="title">Enter title</string>
+    <string name="description">Add description</string>
+    <string name="date">xx/xx/xxxx</string>
+    <string name="update">Update</string>
+    <string name="tvTitle">Title</string>
+    <string name="tvDescription">Description</string>
+    <string name="tvDate">Date</string>
+</resources>
